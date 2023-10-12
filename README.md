@@ -1,16 +1,17 @@
 
-<img width="300" align="right" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
+<img width="300" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="center">
   Welcome to Ammar Zahran's profile!
-  <img src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" width="28">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <hr>
 </p> 
-- 👨‍💻 I'm a CS student, constantly learning and exploring new technologies<br>    to improve my skills.
+- 👨‍💻 I'm a <strong>CS</strong> student, constantly learning and exploring new technologies<br>    to improve my skills.
 
 
 ### Connect with Me :
