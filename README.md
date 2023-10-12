@@ -1,5 +1,5 @@
 
-<img width="300" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img width="250" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="center">
   Welcome to Ammar Zahran's profile!
