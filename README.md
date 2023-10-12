@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-- 👨‍💻 I'm a CS student, constantly learning and exploring new technologies<br> to improve my skills.
+- 👨‍💻 I'm a CS student, constantly learning and exploring new technologies<br>    to improve my skills.
 
 
 ### Connect with Me :
