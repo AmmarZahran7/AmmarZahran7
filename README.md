@@ -1,9 +1,9 @@
 
-<img width="250" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img width="350" align="right" src="https://github.com/Govindv7555/Govindv7555/blob/main/1574956586430.gif">
 
 <h3 align="center">
   Welcome to Ammar Zahran's profile!
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="28">
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/1574956586430.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
