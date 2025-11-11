@@ -4,11 +4,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=AmmarZahran7&label=Profile%20views&color=0e75b6&style=flat" alt="AmmarZahran7"/> </p>
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
+ <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px> -->
 </p> 
-- 👨‍💻 I'm a <strong>CS</strong> student 💻
+- 👨‍💻 I'm a <strong>>Backend .Net</strong> Developer 💻
 
--🌱 I’m currently learning <strong>BackEnd .Net with c#</strong>
 
 
 ### Connect with Me :
